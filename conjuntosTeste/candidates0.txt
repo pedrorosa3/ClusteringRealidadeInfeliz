@@ -1,0 +1,40 @@
+#Name and features:
+#Name; father's title; mother's; paternal grandfather's; paternal grandmother's; maternal grandfather's; maternal grandmother's
+#Candidates:
+João; duque; duquesa; visconde; viscondessa; barão; baronesa
+Maria; rei; rainha; imperador; imperatriz; arquiduque; arquiduquesa
+Pedro; conde; condessa; duque; duquesa; imperador; imperatriz
+Ana; tiktokStar; tiktokStar; youtubeInfluencer; youtubeInfluencer; apresentadorFamaShow; apresentadoraFamaShow
+Miguel; visconde; viscondessa; conde; condessa; arquiduque; arquiduquesa
+Sofia; vencedorFestivalRTP; vencedoraFestivalRTP; rei; rainha; duque; duquesa
+Diogo; barão; baronesa; visconde; viscondessa; rei; rainha
+Mariana; escudeiro; escudeira; barão; baronesa; conde; condessa
+Francisco; youtubeInfluencer; youtubeInfluencer; imperador; imperatriz; visconde; viscondessa
+Carolina; príncipe; princesa; regente; regente; vencedorFestivalRTP; vencedoraFestivalRTP
+Guilherme; duque; duquesa; regente; regente; apresentadorFamaShow; apresentadoraFamaShow
+Ana Clara; visconde; viscondessa; barão; baronesa; imperador; imperatriz
+Luís; conde; condessa; tiktokStar; tiktokStar; rei; rainha
+Beatriz; rei; rainha; príncipe; princesa; visconde; viscondessa
+Tomás; barão; baronesa; youtubeInfluencer; youtubeInfluencer; regente; regente
+Sofia; arquiduque; arquiduquesa; vencedorFestivalRTP; vencedoraFestivalRTP; duque; duquesa
+Bruno; escudeiro; escudeira; visconde; viscondessa; imperador; imperatriz
+Marta; youtubeInfluencer; youtubeInfluencer; regente; regente; tiktokStar; tiktokStar
+Rodrigo; príncipe; princesa; arquiduque; arquiduquesa; rei; rainha
+Carolina; visconde; viscondessa; barão; baronesa; imperador; imperatriz
+Tiago; barão; baronesa; rei; rainha; conde; condessa
+Mariana; tiktokStar; tiktokStar; imperador; imperatriz; visconde; viscondessa
+Bernardo; duque; duquesa; visconde; viscondessa; príncipe; princesa
+Helena; vencedorFestivalRTP; vencedoraFestivalRTP; conde; condessa; regente; regente
+Miguel; rei; rainha; imperador; imperatriz; arquiduque; arquiduquesa
+Carolina; barão; baronesa; escudeiro; escudeira; príncipe; princesa
+Rafael; visconde; viscondessa; youtubeInfluencer; youtubeInfluencer; conde; condessa
+Marta; tiktokStar; tiktokStar; vencedorFestivalRTP; vencedoraFestivalRTP; duque; duquesa
+Afonso; regente; regente; rei; rainha; imperador; imperatriz
+Ana; arquiduque; arquiduquesa; visconde; viscondessa; príncipe; princesa
+Francisco; youtubeInfluencer; youtubeInfluencer; barão; baronesa; tiktokStar; tiktokStar
+Teresa; conde; condessa; regente; regente; rei; rainha
+Diogo; imperador; imperatriz; visconde; viscondessa; duque; duquesa
+#Exemplars:
+Ana Sofia; escudeiro; escudeira; duque; duquesa; imperador; imperatriz
+António; príncipe; princesa; regente; regente; arquiduque; arquiduquesa
+Beatriz; visconde; viscondessa; barão; baronesa; rei; rainha

@@ -1,0 +1,9 @@
+#exemplar 1:
+Ana; plebeu; plebeia; plebeu; plebeia; plebeu; plebeia
+#cluster 1:
+Bruno; plebeu; escudeira; plebeu; plebeia; plebeu; plebeia
+
+#exemplar 2:
+Catarina; imperador; plebeia; plebeu; plebeia; plebeu; plebeia
+#cluster 2:
+Diogo; imperador; escudeira; plebeu; plebeia; plebeu; plebeia

@@ -1,0 +1,19 @@
+#Name and features:
+#Name; father's title; mother's; paternal grandfather's; paternal
+grandmother's; maternal grandfather's; maternal grandmother's
+#Candidates:
+Pedro; duque; duquesa; duque; duquesa; duque; duquesa
+Martim; duque; duquesa; duque; duquesa; duque; duquesa
+Tomás; duque; duquesa; duque; duquesa; duque; duquesa
+Nuno; duque; duquesa; duque; duquesa; duque; duquesa
+Tiago; duque; duquesa; duque; duquesa; duque; duquesa
+Tomás; duque; duquesa; duque; duquesa; duque; duquesa
+Maria; duque; duquesa; duque; duquesa; duque; duquesa
+Madalena; duque; duquesa; duque; duquesa; duque; duquesa
+Ines; duque; duquesa; duque; duquesa; duque; duquesa
+Bianca; duque; duquesa; duque; duquesa; duque; duquesa
+Sónia; duque; duquesa; duque; duquesa; duque; duquesa
+Ana; duque; duquesa; duque; duquesa; duque; duquesa
+#Exemplars:
+Ines; duque; duquesa; duque; duquesa; duque; duquesa
+Ana; duque; duquesa; duque; duquesa; duque; duquesa

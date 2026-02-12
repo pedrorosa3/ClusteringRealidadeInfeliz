@@ -1,0 +1,8 @@
+#Name and features:
+#Name; father's title; mother's; paternal grandfather's; paternal grandmother's; maternal grandfather's; maternal grandmother's
+#Candidates:
+Ana; plebeu; plebeia; plebeu; plebeia; plebeu; plebeia
+Bruno; plebeu; escudeira; plebeu; plebeia; plebeu; plebeia
+#Exemplars:
+Catarina; imperador; plebeia; plebeu; plebeia; plebeu; plebeia
+Diogo; imperador; escudeira; plebeu; plebeia; plebeu; plebeia
